@@ -19,6 +19,3 @@ An interactive explainer for how an autonomous agent team works: an Orchestrator
 ## Design
 - Sci-fi dark theme: neon mint on near-black with amber accents
 - Monospace type, tight display headings
-
-## Local
-Original working copy: `/Volumes/Satechi 1TB/FX/FX autonomous pres.html`
